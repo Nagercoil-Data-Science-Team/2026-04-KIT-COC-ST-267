@@ -1,1 +1,3 @@
-# 2026-04-KIT-COC-ST-267
+Title: Virtual Reality Reconstruction and Interactive Preservation of Traditional Craft Workshops for Digital Archiving
+
+Domain:GAN,virtual reality ,traditional craft workshops
